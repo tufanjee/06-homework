@@ -1,2 +1,1 @@
-# 06-homework
-
+# Homework 06 – Pandas Assignment
