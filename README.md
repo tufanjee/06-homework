@@ -1,1 +1,1 @@
-# Homework 06 – Pandas Assignment
+This repository is part of a basic pandas learning exercise for the Lede Program. The structure, notebook, and dataset were all provided by the instructor. 
